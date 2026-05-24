@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Bot Token
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8494463675:AAGTr-bYZ30dOZ9t_nxVKk57fTx8kVg2-JQ")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8647373567:AAFhBObiZr738fZ82FZQPD8-DqmNYilT7qs")
 
 # Bot Info
 BOT_USERNAME = os.getenv("BOT_USERNAME", "VIP_HACKING_CORSE_BOT")
