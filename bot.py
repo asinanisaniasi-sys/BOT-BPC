@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #   BLACK PRO CYBER BOT - Complete Single File
 #   Admin: @jiolinhacker
@@ -28,7 +28,7 @@ from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError
 # CONFIGURATION
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-BOT_TOKEN = "8494463675:AAGTr-bYZ30dOZ9t_nxVKk57fTx8kVg2-JQ"
+BOT_TOKEN = "8647373567:AAFhBObiZr738fZ82FZQPD8-DqmNYilT7qs"
 BOT_USERNAME = "VIP_HACKING_CORSE_BOT"  # Change to your bot username after creation
 BOT_NAME = "BLACK PRO CYBER BOT"
 
